@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wakhu
-- 👀 I’m interested in ...programming and machine learnig
-- 🌱 I’m currently learning ...python, html, css, javascript, java, flask, django
+- 👋 Hi, I’m Derrick Wakhu Shibero
+- 👀 I’m interested in ...programming, AI, writing books and machine learning
+- 🌱 I’m currently learning ...python, html, css, javascript, java, flask, django, golang, ruby
 - 💞️ I’m looking to collaborate on ...nothing for now
 - 📫 How to reach me ...shiberoderrickwakhu@gmail.com, @ShiberoD
 
