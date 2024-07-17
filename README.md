@@ -79,10 +79,12 @@ I am a multiskilled in various activities
 ![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
 ## My Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackwakhu&theme=python-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blackwakhu&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackwakhu&theme=tokyonight)
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackwakhu&theme=python-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blackwakhu&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackwakhu&layout=compact&theme=tokyonight&hide_border=true)
 <!---
